@@ -1,0 +1,12 @@
+opencv-python
+numpy
+mediapipe
+pandas
+pyyaml
+re
+sanic
+matplotlib
+pandas
+jupyter
+fastapi
+uvicorn
